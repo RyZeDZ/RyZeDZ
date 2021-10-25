@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**RyZeDZ/RyZeDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👤 I'm RyZe! A 16 years old student.
+- 🌎 I'm from Algeria.
+- 🔭 I’m currently working on [Pineapple AI discord bot](https://top.gg/bot/858328160654983168)
+- 🌱 I’m currently learning web development.
+- 📫 How to reach me: [Discord](https://discord.gg/h2dHHNReqU)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm dumb!
 
-Here are some ideas to get you started:
+# Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![RyZe's github stats](https://github-readme-stats.vercel.app/api?username=RyZeDZ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/RyZeDZ/RyZeDZ)
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZeDZ&theme=radical)](https://github.com/RyZeDZ/RyZeDZ)
