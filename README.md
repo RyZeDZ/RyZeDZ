@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 👤 I'm RyZe! A 16 years old student.
+- 👤 I'm RyZe! A 17 years old student.
 - 🌎 I'm from Algeria.
 - 🔭 I’m currently working on [Pineapple AI discord bot](https://top.gg/bot/858328160654983168)
 - 🌱 I’m currently learning web development.
