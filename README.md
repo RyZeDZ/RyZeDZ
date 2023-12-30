@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on [Pineapple AI discord bot](https://top.gg/bot/858328160654983168)
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me: [Discord](https://discord.gg/h2dHHNReqU)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm dumb!
 - 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
