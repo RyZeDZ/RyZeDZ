@@ -1,18 +1,21 @@
-### Hello there 👋
+# 💫 About Me:
+# 👋 Hey there, I'm RyZe!<br><br>**About Me:**  <br>- 🚀 20-year-old Computer Science student from Algeria.  <br>- 💻 Passionate about Programming, Cybersecurity, and Electronics.  <br>- 🌌 I explore innovative ideas while keeping my next move understated.  <br>- 📚 Contributing to cognis.dev – a hub for Algerian CS students with concise lesson notes.<br><br>**Connect:**  <br>- 🗨️ Discord: [Join my server!](https://discord.gg/h2dHHNReqU)  <br>
 
-- 👤 I'm RyZe! An 18 years old student.
-- 🌎 I'm from Algeria.
-- 🔭 I’m currently working on [Pineapple AI discord bot](https://top.gg/bot/858328160654983168)
-- 🌱 I’m currently learning web development.
-- 📫 How to reach me: [Discord](https://discord.gg/h2dHHNReqU)
-- 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/h2dHHNReqU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kamel_bensmaine) 
 
-# Stats
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RyZeDZ&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RyZeDZ&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZeDZ&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=RyZeDZ&label=Total%20views)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-[![RyZe's github stats](https://github-readme-stats.vercel.app/api?username=RyZeDZ&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/RyZeDZ/RyZeDZ)
+---
+[![](https://visitcount.itsvg.in/api?id=RyZeDZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZeDZ&theme=radical)](https://github.com/RyZeDZ/RyZeDZ)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
